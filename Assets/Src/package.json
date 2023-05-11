@@ -1,0 +1,10 @@
+{
+    "name": "com.vrmoo.unitycolorpicker",
+    "displayName": "UnityColorPicker",
+    "author": { "name": "Vrmoo", "url": "https://vrmoo.com/" },
+    "description": "unity built in color picker",
+    "keywords": [ "color picker"],
+    "license": "MIT",
+    "category": "Utility",
+    "dependencies": {}
+}
