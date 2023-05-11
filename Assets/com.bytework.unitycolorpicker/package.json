@@ -1,0 +1,25 @@
+{
+  "name": "com.bytework.unitycolorpicker",
+  "version": "0.1.0",
+  "displayName": "UnityColorPicker",
+  "description": "UnityColorPicker",
+  "category": "",
+  "documentationUrl": "",
+  "_upm": {
+    "changelog": "init commit"
+  },
+  "changelogUrl": "",
+  "license": "MIT",
+  "licensesUrl": "",
+
+  "dependencies": {
+  },
+  "relatedPackages": {
+  },
+  "keywords": [
+    "color picker"
+  ],
+  "author": {
+    "name": "bytework"
+  }
+}
